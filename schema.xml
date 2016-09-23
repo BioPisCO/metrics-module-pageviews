@@ -16,6 +16,6 @@
 	 <resources>
 		<rsc>software</rsc>
 	 </resources>
-	 <repository>https://github.com/haydeeartaza/metrics-module-pageviews.git</repository>
+	 <repository>https://github.com/BioPisCO/metrics-module-pageviews.git</repository>
 	</component>
 </components_metrics>
