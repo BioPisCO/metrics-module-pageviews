@@ -9,8 +9,10 @@
 	  "wikipedia",
 	  "views"
 	],
-	"private": true,
-	"dependencies": {
+ "private": true,
+ "dependencies": {
+	"es6-promise": "^4.0.5",
+    	"request": "^2.76.0"
   },
   "subdomain": "metrics",
   "analyze": true,
