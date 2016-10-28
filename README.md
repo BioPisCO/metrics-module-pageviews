@@ -16,6 +16,7 @@ This metric obtain the articles pageviews of Wikimedia. It can get pageview tren
   3. **pageviews.js**:  a lightweight JavaScript client library for the Wikimedia Pageviews API for Wikipedia and various of its sister projects for Node.js and the browser.
  
 ## Example:
+```node example/example/example-pageviews.js Uniprot```
 1. **Input**: Uniprot
 2. **Query**:   http://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents/Uniprot/daily/2015100100/2015100100
 3. **Output**: 12 views.
