@@ -5,7 +5,7 @@
 	 <description>Page views count</description>
 	 <authors>Artaza Haydee, Corpas Manuel, Jimenez Rafael</authors>
 	 <input>
-      <parameter>SAM</parameter>
+      <parameter>BLAST</parameter>
     </input>
 	 <output>number</output>
 	 <dependencies>
